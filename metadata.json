@@ -1,0 +1,6 @@
+{
+  "name": "LibraVerse - Smart College Library System",
+  "description": "A futuristic, intelligent college library management system with smart discovery, borrowing circulation, reading analytics, and multi-role dashboards.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
